@@ -15,5 +15,5 @@ Olá, sou estudante de Análise e Desenvolvimento de Sistemas e atualmente sou b
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Jess GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicamedeirosp&show_icons=true&theme=radical)
+
 
